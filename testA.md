@@ -1,4 +1,8 @@
 This is test A file
+
+test
+xyz
+
 A1
 B2
 C3
