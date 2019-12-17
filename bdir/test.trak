@@ -1,0 +1,5 @@
+#!/bin/bash
+
+security delete-internet-password -l "githubY.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "githubX.com" /Users/jawad/Library/Keychains/login.keychain
