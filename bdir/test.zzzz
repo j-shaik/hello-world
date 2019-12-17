@@ -3,3 +3,23 @@
 security delete-internet-password -l "githubY.com" /Users/jawad/Library/Keychains/login.keychain
 
 security delete-internet-password -l "githubX.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "githubY.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "githubX.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "githubY.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "githubX.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "githubY.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "0.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "1.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "2.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "3.com" /Users/jawad/Library/Keychains/login.keychain
+
+security delete-internet-password -l "4.com" /Users/jawad/Library/Keychains/login.keychain
