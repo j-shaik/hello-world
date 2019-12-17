@@ -12,7 +12,7 @@ security delete-internet-password -l "githubY.com" /Users/jawad/Library/Keychain
 
 security delete-internet-password -l "githubX.com" /Users/jawad/Library/Keychains/login.keychain
 
-githubX
+githubY
 
 security delete-internet-password -l "githubY.com" /Users/jawad/Library/Keychains/login.keychain
 
