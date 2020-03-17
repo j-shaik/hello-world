@@ -6,8 +6,6 @@ sdlkjflksjdflkjsdl
 
 sdfkjnksdjfkjsdlf
 
-zzz
-
 test for tagging
 
 sdflkjsdlfkjlsdfjlksdfj
@@ -16,3 +14,5 @@ sdflkjhksdfjlkjsdf
 
 sdfkjhsdkfjkdsjfkfiewrfhwkjnbjdsbkhc
 sdkvjnlksjdlkjf
+
+Polish diacritical chars test - Kłosiński
